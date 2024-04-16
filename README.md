@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Salma Islam
+### Hi there 👋, My name is Salma Islam
 #### Front-end Developer
 ![Front-end Developer](https://github.com/salma-Isalm/salma-Isalm/blob/main/Banner.png)
 
